@@ -14,10 +14,10 @@ so we sat in the house.
 we did nothing at all.
 
 so all we could do was to
-sit!
-   sit!
-      sit!
-         sit!
+git!
+   git!
+      git!
+         git!
 and we did not like it.
 not one little bit.
 
