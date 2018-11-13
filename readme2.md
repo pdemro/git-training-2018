@@ -1,5 +1,5 @@
 ## The Cat in the Hat
-Dr. Suess
+Dr. Matt
 
 the sun did not shine.
 it was too wet to play.
