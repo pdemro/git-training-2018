@@ -14,10 +14,10 @@ so we sat in the house.
 we did nothing at all.
 
 so all we could do was to
-sit!
-   sit!
-      sit!
-         sit!
+git!
+   git!
+      git!
+         git!
 and we did not like it.
 not one little bit.
 
@@ -29,7 +29,7 @@ we looked!
 and we saw him!
 the cat in the hat!
 and he said to us,
-'why do you sit there like that?'
+'why do you git there like that?'
 'i know it is wet
 and the sun is not sunny.
 but we can have
