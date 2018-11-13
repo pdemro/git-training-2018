@@ -1,3 +1,4 @@
+Git Training - Title
 the sun did not shine.
 it was too wet to play.
 so we sat in the house
